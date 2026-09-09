@@ -1,0 +1,4 @@
+# GLAD
+include/glad/*
+include/KHR/*
+src/glad.c
